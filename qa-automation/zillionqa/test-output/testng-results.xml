@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[STEP1]]>
+    </line>
+    <line>
+      <![CDATA[STEP2]]>
+    </line>
+    <line>
+      <![CDATA[STEP3]]>
+    </line>
+    <line>
+      <![CDATA[STEP4]]>
+    </line>
+    <line>
+      <![CDATA[STEP5]]>
+    </line>
+    <line>
+      <![CDATA[STEP6]]>
+    </line>
+    <line>
+      <![CDATA[STEP7]]>
+    </line>
+    <line>
+      <![CDATA[STEP8]]>
+    </line>
+    <line>
+      <![CDATA[STEP9]]>
+    </line>
+    <line>
+      <![CDATA[STEP10]]>
+    </line>
+    <line>
+      <![CDATA[STEP11]]>
+    </line>
+    <line>
+      <![CDATA[STEP12]]>
+    </line>
+  </reporter-output>
+  <suite name="Zillion QA" duration-ms="77417" started-at="2017-07-25T13:02:00Z" finished-at="2017-07-25T13:03:18Z">
+    <groups>
+    </groups>
+    <test name="ZT" duration-ms="77417" started-at="2017-07-25T13:02:00Z" finished-at="2017-07-25T13:03:18Z">
+      <class name="TestNGClass">
+        <test-method status="PASS" signature="testCaseProvider()[pri:0, instance:TestNGClass@9660f4e]" name="testCaseProvider" is-config="true" duration-ms="1266" started-at="2017-07-25T18:32:00Z" finished-at="2017-07-25T18:32:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseProvider -->
+        <test-method status="PASS" signature="launchapp(com.zillion.qa.utils.TestParameters)[pri:0, instance:TestNGClass@9660f4e]" name="launchapp" duration-ms="75915" started-at="2017-07-25T18:32:02Z" data-provider="data" finished-at="2017-07-25T18:33:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[QS_Enrollment_SupportEmailContactUsLinks_chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[STEP1]]>
+            </line>
+            <line>
+              <![CDATA[STEP2]]>
+            </line>
+            <line>
+              <![CDATA[STEP3]]>
+            </line>
+            <line>
+              <![CDATA[STEP4]]>
+            </line>
+            <line>
+              <![CDATA[STEP5]]>
+            </line>
+            <line>
+              <![CDATA[STEP6]]>
+            </line>
+            <line>
+              <![CDATA[STEP7]]>
+            </line>
+            <line>
+              <![CDATA[STEP8]]>
+            </line>
+            <line>
+              <![CDATA[STEP9]]>
+            </line>
+            <line>
+              <![CDATA[STEP10]]>
+            </line>
+            <line>
+              <![CDATA[STEP11]]>
+            </line>
+            <line>
+              <![CDATA[STEP12]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+      </class> <!-- TestNGClass -->
+    </test> <!-- ZT -->
+  </suite> <!-- Zillion QA -->
+</testng-results>
